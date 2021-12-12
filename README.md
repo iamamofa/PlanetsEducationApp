@@ -4,5 +4,5 @@
 
 
 ## :computer: Portfolio and Resume
-* [LinkedIn](https://www.linkedin.com/in/marjandavodinejad?originalSubdomain=ir)
-* [Website](https://progrun.ir)
+* [LinkedIn](https://www.linkedin.com/in/justice-ohene-amofa-349b44173/)
+* [Website](https://joamofa1.github.io)
